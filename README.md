@@ -93,5 +93,10 @@ __🔥  共建[ AI-Ceping（爱测评）](https://ai-ceping.com/) 社区：大�
 ## 多模态榜单
 | 榜单名🚀 | 榜单介绍💬 | 榜单详情📄 |
 |----------|-------------|------------|
-| OpenCompass 多模态评测月度榜单 | 展示了不同多模态模型在各项多模态评测基准上的性能，以平均分的降序排序。目前榜单基于以下 8 个数据集进行平均分计算：MMBench v1.1 (中英测试集), MMStar, MMMU (验证集), MathVista (迷你测试集), HallusionBench, AI2D (测试集), OCRBench, MMVet。<br>本榜单目前仅包含开源模型或是公众可访问的 API 模型。如果你想在榜单上添加新模型，并确认它符合条件，请在 VLMEvalKit 中提交 PR 以支持新模型，我们会随后完成评测与榜单更新。 | ![图片](image_link) <br> 🌐[官方网站](website_link) | 📖[数据集社区](dataset_community_link) | 📊[性能榜单](performance_leaderboard_link) | 📘[文档教程](documentation_tutorials_link) | 🛠️[安装](installation_link) |
+| OpenCompass 多模态评测月度榜单 | 展示了不同多模态模型在各项多模态评测基准上的性能，以平均分的降序排序。目前榜单基于以下 8 个数据集进行平均分计算：MMBench v1.1 (中英测试集), MMStar, MMMU (验证集), MathVista (迷你测试集), HallusionBench, AI2D (测试集), OCRBench, MMVet。<br>本榜单目前仅包含开源模型或是公众可访问的 API 模型。如果你想在榜单上添加新模型，并确认它符合条件，请在 VLMEvalKit 中提交 PR 以支持新模型，我们会随后完成评测与榜单更新。 | ![图片](image_link) <br> 🌐[官方网站](website_link) | - 🌐 [官方网站](https://opencompass.org.cn/)
+- 📖 [数据集社区](https://hub.opencompass.org.cn/home)
+- 📊 [性能榜单](https://rank.opencompass.org.cn/home)
+- 📘 [文档教程](https://opencompass.readthedocs.io/zh_CN/latest/index.html)
+- 🛠️ [安装](https://opencompass.readthedocs.io/zh_CN/latest/get_started/installation.html)
+ |
 | OpenVLM Leaderboard | 这个排行榜上分享了通过VLMEvalKit开源框架获得的VLM的评估结果 | ![图片](image_link) <br> [https://huggingface.co/spaces/opencompass/open_vlm_leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) |
