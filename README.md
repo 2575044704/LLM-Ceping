@@ -1,3 +1,4 @@
+<p align="center">
   <img src="LOGO" alt="Your Logo" width="200" height="200">
 </p>
 <p align="center">
@@ -25,7 +26,8 @@ __🔥  数据集渠道整合__。从海量开源数据集筛选优质数据集�
 
 __🔥  共建[ AI-Ceping（爱测评）](https://ai-ceping.com/) 社区：大模型数据灵感众筹平台__。由同济大学发起，鼓励用户通过自己的创意和灵感，贡献真实的AI语料，以助于大模型的持续迭代和维护。
 
-# 什么是大语言模型？
+# 大模型评测小白入门指北
+## 什么是大语言模型？
 
 ![image](https://github.com/2575044704/LLM-Ceping/assets/19410065/24129155-48bf-4d2a-ba87-85fd895e9eed)
 
