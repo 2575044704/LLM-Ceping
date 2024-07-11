@@ -52,9 +52,11 @@ __🔥  共建[ AI-Ceping（爱测评）](https://ai-ceping.com/) 社区：大�
 3. **实际应用测试**：将模型应用于真实场景中，如客户服务、翻译系统等，观察其实际表现。
 4. **对抗测试**：通过设计一些恶意输入或极端情况来测试模型的鲁棒性和稳定性。
 5. **公平性和伦理测试**：评估模型在处理不同人群和内容时是否存在偏见，确保其公平和无害。
-
-![image](https://github.com/2575044704/LLM-Ceping/assets/19410065/c6ed7d49-b964-4e9a-a10d-b8a188e0916a)
-![image](https://github.com/2575044704/LLM-Ceping/assets/19410065/cc7c2e5a-d3f3-42ad-89c0-91e265bea39c)
+   
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/2575044704/LLM-Ceping/assets/19410065/c6ed7d49-b964-4e9a-a10d-b8a188e0916a" alt="Image 1" style="width: 45%;">
+    <img src="https://github.com/2575044704/LLM-Ceping/assets/19410065/cc7c2e5a-d3f3-42ad-89c0-91e265bea39c" alt="Image 2" style="width: 45%;">
+</div>
 
 当下，市面上的评测体系近百个，既有来自专业学术机构的，也有来自市场运作组织的，还有一些媒体也推出了对应的大模型榜单。
 
