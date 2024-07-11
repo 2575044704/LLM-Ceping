@@ -1,4 +1,3 @@
-![image](https://github.com/2575044704/LLM-Ceping/assets/19410065/8c18082f-5e11-41c0-9881-afa8c59d3d7a)<p align="center">
   <img src="LOGO" alt="Your Logo" width="200" height="200">
 </p>
 <p align="center">
