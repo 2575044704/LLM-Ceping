@@ -26,6 +26,11 @@ __🔥  数据集渠道整合__。从海量开源数据集筛选优质数据集�
 
 __🔥  共建[ AI-Ceping（爱测评）](https://ai-ceping.com/) 社区：大模型数据灵感众筹平台__。由同济大学发起，鼓励用户通过自己的创意和灵感，贡献真实的AI语料，以助于大模型的持续迭代和维护。
 
+|  :fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|  ----  |
+| * [类ChatGPT的模型评测对比](#类ChatGPT的模型评测对比)  <br> * [类ChatGPT的资料](#类ChatGPT的资料)  <br>* [类ChatGPT的开源框架](#类ChatGPT的开源框架)  <br>* [LLM的训练_推理_低资源_高效训练](#LLM的训练_推理_低资源_高效训练)   <br>* [提示工程](#提示工程)  <br>* [类ChatGPT的文档问答](#类ChatGPT的文档问答)  <br>* [类ChatGPT的行业应用](#类ChatGPT的行业应用)  <br>* [类ChatGPT的课程资料](#类ChatGPT的课程资料)  <br>* [LLM的安全问题](#LLM的安全问题)  <br>* [多模态LLM](#多模态LLM)  <br>* [LLM的数据集](#LLM的数据集)
+
+
 # 大模型评测小白入门指北
 ## 什么是大语言模型？
 
